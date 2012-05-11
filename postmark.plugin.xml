@@ -3,8 +3,8 @@
 	<name>Postmark</name>
 	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
 	<author url="http://owenw.com/">Owen Winkler</author>
-	<version>1.0</version>
-	<url>http://owenw.com/</url>
+	<version>0.x-1.0</version>
+	<url>https://addons.habariproject.org/plugins/postmark</url>
 	<description xml:lang="en-us"><![CDATA[Replaces the native Habari email handling with Postmark.]]></description>
 	<copyright>2012</copyright>
 	<guid>d615796f-3fa4-4183-846a-2df8b789abb3</guid>
